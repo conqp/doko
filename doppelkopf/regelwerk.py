@@ -9,4 +9,5 @@ class Regelwerk(NamedTuple):
     ist_trumpf: Callable
     ist_fehl: Callable
     schlägt: Callable
+    bedient: Callable
     test: Callable
