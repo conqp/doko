@@ -1,0 +1,1 @@
+"""Web based Doppelkopf game."""
